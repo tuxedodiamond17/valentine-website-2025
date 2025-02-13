@@ -20,9 +20,9 @@ const CONFIG = {
 
     // Questions and answers
     // Customize each question and its possible responses
-    questions: {
+    questions: {Nicole, my friend...
         first: {
-            text: "Do you like me?",                                    // First interaction
+            text: "Do you wanna go for a friendly date?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "sureeeeee! ❤️"           // Secret hover message
